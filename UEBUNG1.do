@@ -5,7 +5,7 @@
 ****
 * 1.
 * Legen Sie ein Do-File mit typischen Header-Befehlen an, die am Beginn eines 
-* jeden Do-Files stehen sollten und speichern Sie sich diese in ihrem Do-File
+* jeden Do-Files stehen sollten und speichern Sie sich dieses in ihrem Do-File
 * Ordner ab.
 *
  
